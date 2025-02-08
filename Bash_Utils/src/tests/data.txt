@@ -1,0 +1,6 @@
+This is a line with pattern1.
+This is another line with pattern2.
+pattern8 pattern9 pattern7 NOOOO
+This line does not match any pattern.
+pattern7
+This is the last line with pattern3.

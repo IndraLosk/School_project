@@ -1,0 +1,8 @@
+pattern1
+pattern8 pattern9 pattern7
+pattern2
+pattern3
+// "-e" "-i" "-v" "-c" "-l" "-n" "-h" "-s" "-f" "-ie" "-ve" "-ce" "-le" "-ne" "-he" "-se" "-iv" "-ic" "-il" "-in" "-ih" "-is"
+
+
+ъ
