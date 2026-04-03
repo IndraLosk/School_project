@@ -1,0 +1,189 @@
+[
+  {
+    "amount_of_treasure": 23,
+    "lvl": 1,
+    "number_of_enemies": 2,
+    "amount_of_food": 0,
+    "number_of_elixirs": 0,
+    "number_of_scrolls": 0,
+    "number_of_attacks_made": 7,
+    "number_of_attacks_hits": 3,
+    "number_of_tiles": 458
+  },
+  {
+    "amount_of_treasure": 17,
+    "lvl": 1,
+    "number_of_enemies": 1,
+    "amount_of_food": 0,
+    "number_of_elixirs": 0,
+    "number_of_scrolls": 1,
+    "number_of_attacks_made": 4,
+    "number_of_attacks_hits": 5,
+    "number_of_tiles": 199
+  },
+  {
+    "amount_of_treasure": 29,
+    "lvl": 1,
+    "number_of_enemies": 2,
+    "amount_of_food": 2,
+    "number_of_elixirs": 0,
+    "number_of_scrolls": 1,
+    "number_of_attacks_made": 8,
+    "number_of_attacks_hits": 9,
+    "number_of_tiles": 337
+  },
+  {
+    "amount_of_treasure": 80,
+    "lvl": 2,
+    "number_of_enemies": 6,
+    "amount_of_food": 2,
+    "number_of_elixirs": 0,
+    "number_of_scrolls": 0,
+    "number_of_attacks_made": 21,
+    "number_of_attacks_hits": 20,
+    "number_of_tiles": 1139
+  },
+  {
+    "amount_of_treasure": 225,
+    "lvl": 5,
+    "number_of_enemies": 18,
+    "amount_of_food": 10,
+    "number_of_elixirs": 0,
+    "number_of_scrolls": 5,
+    "number_of_attacks_made": 43,
+    "number_of_attacks_hits": 45,
+    "number_of_tiles": 1740
+  },
+  {
+    "amount_of_treasure": 49,
+    "lvl": 2,
+    "number_of_enemies": 4,
+    "amount_of_food": 2,
+    "number_of_elixirs": 1,
+    "number_of_scrolls": 1,
+    "number_of_attacks_made": 12,
+    "number_of_attacks_hits": 7,
+    "number_of_tiles": 420
+  },
+  {
+    "amount_of_treasure": 0,
+    "lvl": 1,
+    "number_of_enemies": 0,
+    "amount_of_food": 0,
+    "number_of_elixirs": 0,
+    "number_of_scrolls": 0,
+    "number_of_attacks_made": 1,
+    "number_of_attacks_hits": 1,
+    "number_of_tiles": 77
+  },
+  {
+    "amount_of_treasure": 6,
+    "lvl": 1,
+    "number_of_enemies": 1,
+    "amount_of_food": 0,
+    "number_of_elixirs": 0,
+    "number_of_scrolls": 0,
+    "number_of_attacks_made": 6,
+    "number_of_attacks_hits": 2,
+    "number_of_tiles": 208
+  },
+  {
+    "amount_of_treasure": 16,
+    "lvl": 1,
+    "number_of_enemies": 1,
+    "amount_of_food": 0,
+    "number_of_elixirs": 0,
+    "number_of_scrolls": 0,
+    "number_of_attacks_made": 2,
+    "number_of_attacks_hits": 6,
+    "number_of_tiles": 152
+  },
+  {
+    "amount_of_treasure": 0,
+    "lvl": 1,
+    "number_of_enemies": 0,
+    "amount_of_food": 0,
+    "number_of_elixirs": 0,
+    "number_of_scrolls": 0,
+    "number_of_attacks_made": 1,
+    "number_of_attacks_hits": 1,
+    "number_of_tiles": 22
+  },
+  {
+    "amount_of_treasure": 78,
+    "lvl": 2,
+    "number_of_enemies": 7,
+    "amount_of_food": 3,
+    "number_of_elixirs": 1,
+    "number_of_scrolls": 1,
+    "number_of_attacks_made": 19,
+    "number_of_attacks_hits": 14,
+    "number_of_tiles": 667
+  },
+  {
+    "amount_of_treasure": 0,
+    "lvl": 1,
+    "number_of_enemies": 0,
+    "amount_of_food": 0,
+    "number_of_elixirs": 0,
+    "number_of_scrolls": 0,
+    "number_of_attacks_made": 0,
+    "number_of_attacks_hits": 1,
+    "number_of_tiles": 43
+  },
+  {
+    "amount_of_treasure": 0,
+    "lvl": 1,
+    "number_of_enemies": 0,
+    "amount_of_food": 0,
+    "number_of_elixirs": 0,
+    "number_of_scrolls": 0,
+    "number_of_attacks_made": 0,
+    "number_of_attacks_hits": 1,
+    "number_of_tiles": 43
+  },
+  {
+    "amount_of_treasure": 13,
+    "lvl": 1,
+    "number_of_enemies": 1,
+    "amount_of_food": 0,
+    "number_of_elixirs": 0,
+    "number_of_scrolls": 0,
+    "number_of_attacks_made": 6,
+    "number_of_attacks_hits": 4,
+    "number_of_tiles": 435
+  },
+  {
+    "amount_of_treasure": 42,
+    "lvl": 2,
+    "number_of_enemies": 4,
+    "amount_of_food": 3,
+    "number_of_elixirs": 1,
+    "number_of_scrolls": 0,
+    "number_of_attacks_made": 12,
+    "number_of_attacks_hits": 6,
+    "number_of_tiles": 485
+  },
+  {
+    "amount_of_treasure": 67,
+    "lvl": 2,
+    "number_of_enemies": 6,
+    "amount_of_food": 5,
+    "number_of_elixirs": 2,
+    "number_of_scrolls": 0,
+    "number_of_attacks_made": 18,
+    "number_of_attacks_hits": 13,
+    "number_of_tiles": 883
+  },
+  {
+    "amount_of_treasure": 112,
+    "lvl": 3,
+    "number_of_enemies": 8,
+    "amount_of_food": 4,
+    "number_of_elixirs": 0,
+    "number_of_scrolls": 1,
+    "number_of_attacks_made": 16,
+    "number_of_attacks_hits": 16,
+    "number_of_tiles": 842
+  }
+]
